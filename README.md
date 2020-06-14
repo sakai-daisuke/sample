@@ -1,3 +1,4 @@
-＃サンプリング
-＃＃あいうえうお
-＃＃＃かきくけこ
+#aiueo
+##kakikukeko
+##sasisuseso
+
